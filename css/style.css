@@ -111,12 +111,12 @@ header nav ul li a:hover{
 .home{
     min-height: 100vh;
     display: flex;
-    align-items: center;
-    justify-content: space-around;
     background:url(../img/background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    align-items: center;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
